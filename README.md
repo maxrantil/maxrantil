@@ -15,7 +15,7 @@
 
 - 📄 Know about my experiences [mqx.digital](mqx.digital)
 
-- 🚲 I also like bicycling, ₿itcoin & bastu 🧖 
+- 🚲 I also like bicycling, ₿itcoin and bastu 🧖 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
