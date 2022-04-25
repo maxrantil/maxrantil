@@ -2,6 +2,8 @@
 <h3 align="center">A passionate developer from Sweden</h3>
 
 <br>
+
+  <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" /> </p>
 <br>
 - 🔭 I’m currently working on [my own website](mqx.digital)
 
@@ -18,9 +20,6 @@
 - 📄 Know about my experiences [mqx.digital](mqx.digital)
 
 - 🚲 I also like bicycling, ₿itcoin and bastu 🧖 
-
-
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" /> </p>
   
 <br>
 <h3 align="left">Connect with me:</h3>
