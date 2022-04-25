@@ -4,7 +4,6 @@
 <br>
 
   <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" /> </p>
-<br>
 - 🔭 I’m currently working on [my own website](mqx.digital)
 
 - 🌱 I’m currently learning **php, javascript, mysql**
