@@ -12,4 +12,6 @@ Hi, Im Max
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maxrantil)](https://github.com/anuraghazra/github-readme-stats)
+
 
