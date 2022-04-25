@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Max</h1>
 <h3 align="center">A passionate developer from Sweden</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" /> </p>
-
 - 🔭 I’m currently working on [my own website](mqx.digital)
 
 - 🌱 I’m currently learning **php, javascript, mysql**
@@ -11,7 +9,7 @@
 
 - 🤝 I’m looking for help with **mentorship**
 
-- 👨‍💻 All of my projects are available at [in my prepositories](in my prepositories)
+- 👨‍💻 All of my projects are available at [in my prepositories]
 
 - 📫 How to reach me **rantil@pm.me**
 
@@ -29,5 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=maxrantil" alt="maxrantil" /></a> </p>
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" /> </p>
