@@ -2,6 +2,7 @@
 <h3 align="center">A passionate developer from Sweden</h3>
 
 <br>
+<br>
 - 🔭 I’m currently working on [my own website](mqx.digital)
 
 - 🌱 I’m currently learning **php, javascript, mysql**
