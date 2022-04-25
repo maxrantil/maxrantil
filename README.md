@@ -6,7 +6,7 @@
   
 <p align="left"> - 🔭 I’m currently working on my own website
 
-<p> - 🌱 I’m currently learning **php, javascript, mysql**
+<p align="right"> - 🌱 I’m currently learning **php, javascript, mysql** </p>
 
 <p align="left"> - 👯 I’m looking to collaborate on **open source projects**
 
