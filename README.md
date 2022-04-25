@@ -1,4 +1,4 @@
-Welcome,
+Hi, Im Max
 
 <!--
 **maxrantil/maxrantil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -8,7 +8,7 @@ Welcome,
 - 👯 Goal of 2022: to collaborate on an open source project
 - 🤔 I’m looking for help with mentorship 
 - 💬 Ask me about bitcoin
-- ⚡ Fun fact: Im studiying stoisism every day
+- ⚡ Fun fact: Im studying stoisism every day
 
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxrantil)](https://github.com/anuraghazra/github-readme-stats)
