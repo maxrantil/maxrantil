@@ -1,7 +1,6 @@
 <h2 align="center">Hi 👋, I'm Max</h2>
 <h3 align="center">A passionate developer from Sweden</h3>
 
-<br>
 
   <p><img align="right" src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" /> </p>
 - 🔭 I’m currently working on [my own website](mqx.digital)
