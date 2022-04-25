@@ -10,6 +10,6 @@ Hi, Im Max
 - 💬 Ask me about bitcoin
 - ⚡ Fun fact: Im studying stoisism every day
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=gruvbox)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox)
 
 
