@@ -29,15 +29,8 @@
 
 <br>
 
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" />
-  </p>
-  <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" /> </p>
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" />
+  </a>
+  <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" /> </a>
   <p align="right"><img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" /> </p>
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
