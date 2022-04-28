@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Max</h2>
 <h3 align="center">A passionate developer from Sweden</h3>
 
-  
+  <a align="center>
    - 🔭 I’m currently working on my own website
 
    - 🌱 I’m currently learning **php, javascript, mysql**
@@ -16,8 +16,8 @@
 
    - 📄 Know about my experiences [mqx.digital](mqx.digital)
 
-   - 🚲 I also like bicycling, ₿itcoin and bastu 🧖 
-  
+   - 🚲 I also like bicycling, ₿itcoin and sauna 🧖 
+  </a>
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -32,5 +32,5 @@
   <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" /> </a>
   <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" />
  </a>
-  <a align="right"><img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" /> </a>
+  <p align="right"><img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" /> </p>
 
