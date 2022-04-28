@@ -1,8 +1,8 @@
-<h2 align="center">Hi 👋, I'm Max</h2>
+<h2 align="center">Hi, I'm Max</h2>
 <h3 align="center">A passionate developer from Sweden</h3>
 
   
-   - 🔭 I’m currently working on my own website
+   <a align="center"> - 🔭 I’m currently working on my own website</a>
 
    - 🌱 I’m currently learning **php, javascript, mysql**
 
