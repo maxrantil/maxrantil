@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Max</h2>
 <h3 align="center">A passionate developer from Sweden</h3>
 
-  <a align="center>
+
    - 🔭 I’m currently working on my own website
 
    - 🌱 I’m currently learning **php, javascript, mysql**
@@ -17,7 +17,7 @@
    - 📄 Know about my experiences [mqx.digital](mqx.digital)
 
    - 🚲 I also like bicycling, ₿itcoin and sauna 🧖 
-  </a>
+
 <br>
 <h3 align="center">Connect with me:</h3>
 <p align="center">
