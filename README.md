@@ -9,7 +9,7 @@
 
    - 🤝 I’m looking for help with **mentorship**
 
-   - 👨‍💻 All of my projects are available at [in my prepositories]
+   - 👨‍💻 Check out my pinned project from my repo
 
    - 📫 How to reach me **rantil@pm.me**
 
