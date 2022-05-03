@@ -5,7 +5,7 @@
 
  <p align="center">🔭 I’m currently working on my own website (https://mqx.digital) </p>
 
- <p align="center">🌱 I’m currently learning ### php, javascript, mysql </p>
+ <p align="center">🌱 I’m currently learning **php, javascript, mysql** </p>
 
  <p align="center">👯 I’m looking to collaborate on **open source projects** </p>
 
@@ -20,7 +20,7 @@
  <p align="center">🚲 I also like bicycling, ₿itcoin and sauna 🧖 </p>
  
  
-<div align="left">
+<div align='center'>
 
  <a href="">**Languages**</a>
 
