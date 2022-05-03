@@ -32,16 +32,14 @@
 ![HTML](https://img.shields.io/badge/html-html-black)
 ![CSS](https://img.shields.io/badge/css-css-black)
 
+<br>
+<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" /> 
+  <img align="center" src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" />
+  <img align="right" src="https://gidigi.com/cdn/love.gif">
+</a>
+
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-
-<br>
-   <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" />
-</a>
-   <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" /> 
-   <a><img align="center" src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" />
-   <a><img align="right" src="https://gidigi.com/cdn/love.gif">
-</a>
-</a>
-</a>
+![MacOS](https://img.shields.io/badge/MacOS-MacOS-black)
