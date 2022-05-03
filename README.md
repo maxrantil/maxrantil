@@ -1,8 +1,7 @@
 <h2 align="center">Hi, I'm Max</h2>
 <h3 align="center">A passionate developer from Sweden</h3>
 
-<p align="center" style="display: inline_block"><br>
-<h4 align="center">⚡️ A Few Quick Facts.</h4> 
+<p float="center" style="display: inline_block"><br>
    
     - 🔭 I’m currently working on my own website<br>
 
@@ -30,7 +29,7 @@
 </p>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20of%20school%2042%20-%20Hive%20Helsinki;Always%20learning&font=Fira%20Code&center=true&width=700&height=45&color=3382FF&vCenter=true&size=22"></p>
-<p float="right"><img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" /></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" /></p>
 
 ### Languages
 
@@ -43,10 +42,9 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 <br>
-<p float="left">
+<p float="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" />
-   <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" /> 
-   
+   <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" />  
    <img src="https://gidigi.com/cdn/love.gif">
 </p>
 
