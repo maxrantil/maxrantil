@@ -33,6 +33,6 @@
    <a align="center"><img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" />
 </a>
 
-<p align="right">
+<a align="right">
     <img src="https://gidigi.com/cdn/love.gif">
-</p>
+</a>
