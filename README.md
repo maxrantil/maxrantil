@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Max</h2>
 <h3 align="center">A passionate developer from Sweden</h3>
 
-<p float="center">
+<div align="center" style="display: inline_block"><br>
    - 🔭 I’m currently working on my own website
 
    - 🌱 I’m currently learning **php, javascript, mysql**
@@ -18,7 +18,7 @@
 
    - 🚲 I also like bicycling, ₿itcoin and sauna 🧖 
 
-</p>
+</div>
 
 <br>
    
