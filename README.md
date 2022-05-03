@@ -19,9 +19,7 @@
 
  <p align="center">🚲 I also like bicycling, ₿itcoin and sauna 🧖 </p>
 
-
-<br>
-
+<p float="left">
 ### Languages
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -32,6 +30,13 @@
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
+### Technologies
+
+![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=MacOS)
+![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)
+ </p>
+
 <br>
 <p float="center">
    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" />
@@ -39,11 +44,6 @@
    <img src="https://gidigi.com/cdn/love.gif">
 </p>
 
-### Technologies
-
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=MacOS)
-![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
