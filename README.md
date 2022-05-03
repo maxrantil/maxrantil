@@ -25,12 +25,12 @@
 
 ### Languages
 
-![C](https://img.shields.io/badge/C-C-black)
-![JavaScript](https://img.shields.io/badge/js-js-black)
-![SQL](https://img.shields.io/badge/sql-sql-black)
-![PHP](https://img.shields.io/badge/php-php-black)
-![HTML](https://img.shields.io/badge/html-html-black)
-![CSS](https://img.shields.io/badge/css-css-black)
+![C](https://img.shields.io/badge/-C-000?&logo=C)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
+![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
 
 <br>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" />
@@ -42,4 +42,4 @@
 ### Technologies
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![MacOS](https://img.shields.io/badge/MacOS-MacOS-black)
+![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=MacOS)
