@@ -26,11 +26,11 @@
 ### Languages
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
 ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 <br>
 <a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" />
@@ -43,3 +43,4 @@
 
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=MacOS)
+![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)
