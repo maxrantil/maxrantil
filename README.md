@@ -20,7 +20,7 @@
  <p align="center">🚲 I also like bicycling, ₿itcoin and sauna 🧖 </p>
  
  
-<div align='center'>
+<div align='left'>
 
  <a href="">**Languages**</a>
 
@@ -32,6 +32,9 @@
  <a href=""> ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)</a>
  <a href=""> ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)</a>
 
+ </div>
+ <div align='right'>
+ 
  <a href="">**Technologies**</a>
 
  <a href=""> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
