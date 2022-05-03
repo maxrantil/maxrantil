@@ -1,25 +1,25 @@
 <h2 align="center">Hi, I'm Max</h2>
 <h3 align="center">A passionate developer from Sweden</h3>
 
-<p align="center">
 
- 🔭 I’m currently working on my own website
 
- 🌱 I’m currently learning **php, javascript, mysql**
+ <p align="center">🔭 I’m currently working on my own website</p>
 
- 👯 I’m looking to collaborate on **open source projects**
+ <p align="center">🌱 I’m currently learning **php, javascript, mysql**</p>
 
- 🤝 I’m looking for help with **mentorship**
+ <p align="center">👯 I’m looking to collaborate on **open source projects**</p>
 
- 👨‍💻 Check out my pinned project from my repos
+ <p align="center">🤝 I’m looking for help with **mentorship**</p>
 
- 📫 How to reach me **rantil@pm.me**
+ <p align="center">👨‍💻 Check out my pinned project from my repos</p>
 
- 📄 Know about my experiences [mqx.digital](mqx.digital)
+ <p align="center">📫 How to reach me **rantil@pm.me**</p>
 
- 🚲 I also like bicycling, ₿itcoin and sauna 🧖 
+ <p align="center">📄 Know about my experiences [mqx.digital](mqx.digital)</p>
 
-</p>
+ <p align="center">🚲 I also like bicycling, ₿itcoin and sauna 🧖 </p>
+
+
 <br>
    
 <h3 align="center">Connect with me:</h3>
