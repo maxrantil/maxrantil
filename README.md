@@ -21,14 +21,6 @@
 
 
 <br>
-   
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/maxrantil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxrantil" height="30" width="40" /></a>
-</p>
-
-<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20of%20school%2042%20-%20Hive%20Helsinki;Always%20learning&font=Fira%20Code&center=true&width=700&height=45&color=3382FF&vCenter=true&size=22"></p>
-<p align="right"><img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" /></p>
 
 ### Languages
 
@@ -52,4 +44,12 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=MacOS)
 ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://linkedin.com/in/maxrantil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxrantil" height="30" width="40" /></a>
+</p>
+
+<p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20of%20school%2042%20-%20Hive%20Helsinki;Always%20learning&font=Fira%20Code&center=true&width=700&height=45&color=3382FF&vCenter=true&size=22"></p>
+<p align="right"><img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" /></p>
 
