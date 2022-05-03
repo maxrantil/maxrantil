@@ -2,21 +2,22 @@
 <h3 align="center">A passionate developer from Sweden</h3>
 
 <div align="center" style="display: inline_block"><br>
-   - 🔭 I’m currently working on my own website
+   
+    • 🔭 I’m currently working on my own website<br>
 
-   - 🌱 I’m currently learning **php, javascript, mysql**
+    • 🌱 I’m currently learning **php, javascript, mysql**<br>
 
-   - 👯 I’m looking to collaborate on **open source projects**
+    • 👯 I’m looking to collaborate on **open source projects**<br>
 
-   - 🤝 I’m looking for help with **mentorship**
+    • 🤝 I’m looking for help with **mentorship**<br>
 
-   - 👨‍💻 Check out my pinned project from my repos
+    • 👨‍💻 Check out my pinned project from my repos<br>
 
-   - 📫 How to reach me **rantil@pm.me**
+    • 📫 How to reach me **rantil@pm.me**<br>
 
-   - 📄 Know about my experiences [mqx.digital](mqx.digital)
+    • 📄 Know about my experiences [mqx.digital](mqx.digital)<br>
 
-   - 🚲 I also like bicycling, ₿itcoin and sauna 🧖 
+    • 🚲 I also like bicycling, ₿itcoin and sauna 🧖 <br>
 
 </div>
 
