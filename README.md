@@ -4,21 +4,21 @@
 <p align="center" style="display: inline_block"><br>
 <h4 align="center">⚡️ A Few Quick Facts.</h4> 
    
-   - 🔭 I’m currently working on my own website<br>
+    - 🔭 I’m currently working on my own website<br>
 
-   - 🌱 I’m currently learning **php, javascript, mysql**<br>
+    - 🌱 I’m currently learning **php, javascript, mysql**<br>
 
-   - 👯 I’m looking to collaborate on **open source projects**<br>
+    - 👯 I’m looking to collaborate on **open source projects**<br>
 
-   - 🤝 I’m looking for help with **mentorship**<br>
+    - 🤝 I’m looking for help with **mentorship**<br>
 
-   - 👨‍💻 Check out my pinned project from my repos<br>
+    - 👨‍💻 Check out my pinned project from my repos<br>
 
-   - 📫 How to reach me **rantil@pm.me**<br>
+    - 📫 How to reach me **rantil@pm.me**<br>
 
-   - 📄 Know about my experiences [mqx.digital](mqx.digital)<br>
+    - 📄 Know about my experiences [mqx.digital](mqx.digital)<br>
 
-   - 🚲 I also like bicycling, ₿itcoin and sauna 🧖 <br>
+    - 🚲 I also like bicycling, ₿itcoin and sauna 🧖 <br>
 
 </p>
 
@@ -30,6 +30,7 @@
 </p>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20of%20school%2042%20-%20Hive%20Helsinki;Always%20learning&font=Fira%20Code&center=true&width=700&height=45&color=3382FF&vCenter=true&size=22"></p>
+<p float="right"><img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" /></p>
 
 ### Languages
 
@@ -54,5 +55,4 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
 ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=MacOS)
 ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)
-<p float="right"><img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" /></p>
 
