@@ -33,7 +33,6 @@
  <a href=""> ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)</a>
  <a href=""> ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)</a>
 
- <div align='right'>
  
  <a href="">**Technologies**</a>
 
@@ -41,7 +40,6 @@
  <a href=""> ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=MacOS)</a>
  <a href=""> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
 
-</div>
 </div>
  
 <br>
