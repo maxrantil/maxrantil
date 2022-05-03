@@ -3,21 +3,21 @@
 
 <p align="center">
 
-- 🔭 I’m currently working on my own website>
+ 🔭 I’m currently working on my own website
 
-- 🌱 I’m currently learning **php, javascript, mysql**
+ 🌱 I’m currently learning **php, javascript, mysql**
 
-- 👯 I’m looking to collaborate on **open source projects**
+ 👯 I’m looking to collaborate on **open source projects**
 
-- 🤝 I’m looking for help with **mentorship**
+ 🤝 I’m looking for help with **mentorship**
 
-- 👨‍💻 Check out my pinned project from my repos
+ 👨‍💻 Check out my pinned project from my repos
 
-- 📫 How to reach me **rantil@pm.me**
+ 📫 How to reach me **rantil@pm.me**
 
-- 📄 Know about my experiences [mqx.digital](mqx.digital)
+ 📄 Know about my experiences [mqx.digital](mqx.digital)
 
-- 🚲 I also like bicycling, ₿itcoin and sauna 🧖 
+ 🚲 I also like bicycling, ₿itcoin and sauna 🧖 
 
 </p>
 <br>
