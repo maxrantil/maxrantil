@@ -19,7 +19,8 @@
 
  <p align="center">🚲 I also like bicycling, ₿itcoin and sauna 🧖 </p>
  
- 
+<br>
+
 <div align='left'>
 
  <a href="">**Languages**</a>
@@ -32,7 +33,6 @@
  <a href=""> ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)</a>
  <a href=""> ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)</a>
 
- </div>
  <div align='right'>
  
  <a href="">**Technologies**</a>
@@ -42,7 +42,8 @@
  <a href=""> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
 
 </div>
-          
+</div>
+ 
 <br>
 <p float="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" />
