@@ -5,7 +5,7 @@
 
  <p align="center" href="">🔭 I’m currently working on my own website (https://mqx.digital) </p>
 
- <p align="center" href="">🌱 I’m currently learning **php, javascript, mysql** </p>
+ <p align="center" href="">🌱 I’m currently learning ***php, javascript, mysql*** </p>
 
  <p align="center" href="">👯 I’m looking to collaborate on **open source projects** </p>
 
