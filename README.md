@@ -1,26 +1,25 @@
 <h2 align="center">Hi, I'm Max</h2>
 <h3 align="center">A passionate developer from Sweden</h3>
 
-<a style="text-align-last: center">
-   
-    - 🔭 I’m currently working on my own website>
+<p align="center">
 
-    - 🌱 I’m currently learning **php, javascript, mysql**
+- 🔭 I’m currently working on my own website>
 
-    - 👯 I’m looking to collaborate on **open source projects**
+- 🌱 I’m currently learning **php, javascript, mysql**
 
-    - 🤝 I’m looking for help with **mentorship**
+- 👯 I’m looking to collaborate on **open source projects**
 
-    - 👨‍💻 Check out my pinned project from my repos
+- 🤝 I’m looking for help with **mentorship**
 
-    - 📫 How to reach me **rantil@pm.me**
+- 👨‍💻 Check out my pinned project from my repos
 
-    - 📄 Know about my experiences [mqx.digital](mqx.digital)
+- 📫 How to reach me **rantil@pm.me**
 
-    - 🚲 I also like bicycling, ₿itcoin and sauna 🧖 
+- 📄 Know about my experiences [mqx.digital](mqx.digital)
 
-</a>
+- 🚲 I also like bicycling, ₿itcoin and sauna 🧖 
 
+</p>
 <br>
    
 <h3 align="center">Connect with me:</h3>
