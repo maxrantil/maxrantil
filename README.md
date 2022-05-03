@@ -1,29 +1,27 @@
 <h2 align="center">Hi, I'm Max</h2>
 <h3 align="center">A passionate developer from Sweden</h3>
 
+ <p align="center">🔭 I’m currently working on my own website (https://mqx.digital) </p>
 
+ <p align="center">🌱 I’m currently learning ***php, javascript, mysql*** </p>
 
- <p align="center" href="">🔭 I’m currently working on my own website (https://mqx.digital) </p>
+ <p align="center">👯 I’m looking to collaborate on **open source projects** </p>
 
- <p align="center" href="">🌱 I’m currently learning ***php, javascript, mysql*** </p>
+ <p align="center">🤝 I’m looking for help with **mentorship** </p>
 
- <p align="center" href="">👯 I’m looking to collaborate on **open source projects** </p>
+ <p align="center">👨‍💻 Check out my pinned project from my repos </p>
 
- <p align="center" href="">🤝 I’m looking for help with **mentorship** </p>
+ <p align="center">📫 How to reach me **rantil@pm.me** </p>
 
- <p align="center" href="">👨‍💻 Check out my pinned project from my repos </p>
+ <p align="center">📄 Know about my experiences (https://max-blog.ghost.io/) </p>
 
- <p align="center" href="">📫 How to reach me **rantil@pm.me** </p>
-
- <p align="center" href="">📄 Know about my experiences (https://max-blog.ghost.io/) </p>
-
- <p align="center" href="">🚲 I also like bicycling, ₿itcoin and sauna 🧖 </p>
+ <p align="center">🚲 I also like bicycling, ₿itcoin and sauna 🧖 </p>
  
 <br>
 
 <div align='left'>
 
- <a> ### Languages</a>
+ ### Languages
 
  <a href=""> ![C](https://img.shields.io/badge/-C-000?&logo=C)</a>
  <a href=""> ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</a>
@@ -34,7 +32,7 @@
  <a href=""> ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)</a>
 
  
- <a> ### Technologies</a>
+ ### Technologies
 
  <a href=""> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
  <a href=""> ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=MacOS)</a>
