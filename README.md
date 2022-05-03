@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Max</h2>
 <h3 align="center">A passionate developer from Sweden</h3>
 
-<p float="center" style="display: inline_block"><br>
+<p style="text-align-last: center"><br>
    
     - 🔭 I’m currently working on my own website<br>
 
