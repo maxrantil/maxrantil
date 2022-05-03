@@ -15,7 +15,7 @@
 
  <p align="center">📫 How to reach me **rantil@pm.me**</p>
 
- <p align="center">📄 Know about my experiences [mqx.digital](mqx.digital)</p>
+ <p align="center">📄 Know about my experiences [mqx digital](https://mqx.digital)</p>
 
  <p align="center">🚲 I also like bicycling, ₿itcoin and sauna 🧖 </p>
  
