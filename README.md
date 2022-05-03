@@ -22,7 +22,7 @@
 ### Languages
 
 ![C](https://img.shields.io/badge/-C-000?&logo=C)
-![SHELL](https://img.shields.io/badge/-shell-000?&logo=shell)
+![SHELL](https://img.shields.io/badge/-ShellScript-000?&logo=ShellScript)
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
 ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
