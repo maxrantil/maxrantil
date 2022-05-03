@@ -1,6 +1,7 @@
 <h2 align="center">Hi, I'm Max</h2>
 <h3 align="center">A passionate developer from Sweden</h3>
 
+<p float="center">
    - 🔭 I’m currently working on my own website
 
    - 🌱 I’m currently learning **php, javascript, mysql**
@@ -17,7 +18,10 @@
 
    - 🚲 I also like bicycling, ₿itcoin and sauna 🧖 
 
+</p>
+
 <br>
+   
 <h3 align="center">Connect with me:</h3>
 <p align="center">
 <a href="https://linkedin.com/in/maxrantil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxrantil" height="30" width="40" /></a>
