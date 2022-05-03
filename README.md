@@ -37,11 +37,12 @@
 
 <br>
 <p float="center">
-   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" />
-   <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" />  
-   <img src="https://gidigi.com/cdn/love.gif">
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" />
+ <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" />  
 </p>
-
+<p float="center">
+ <img src="https://gidigi.com/cdn/love.gif">
+</p>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
