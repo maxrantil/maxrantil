@@ -20,7 +20,7 @@
  <p align="center">🚲 I also like bicycling, ₿itcoin and sauna 🧖 </p>
  
  
-<a align="left>
+<div align="center">
  ### Languages
 
  ![C](https://img.shields.io/badge/-C-000?&logo=C)
@@ -36,7 +36,7 @@
  ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
  ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=MacOS)
  ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)
-</a>
+</div>
           
 <br>
 <p float="center">
