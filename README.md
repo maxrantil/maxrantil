@@ -22,7 +22,7 @@
  
 <div align="left">
 
- <a href="">### Languages</a>
+ <a href="">**Languages**</a>
 
  <a href=""> ![C](https://img.shields.io/badge/-C-000?&logo=C)</a>
  <a href=""> ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</a>
@@ -32,7 +32,7 @@
  <a href=""> ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)</a>
  <a href=""> ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)</a>
 
- <a href="">### Technologies</a>
+ <a href="">**Technologies**</a>
 
  <a href=""> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
  <a href=""> ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=MacOS)</a>
