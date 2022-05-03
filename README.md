@@ -3,19 +3,19 @@
 
 
 
- <p align="center">🔭 I’m currently working on my own website (https://mqx.digital)</p>
+ <p align="center">🔭 I’m currently working on my own website (https://mqx.digital) </p>
 
- <p align="center">🌱 I’m currently learning **php, javascript, mysql**</p>
+ <p align="center">🌱 I’m currently learning **php, javascript, mysql** </p>
 
- <p align="center">👯 I’m looking to collaborate on **open source projects**</p>
+ <p align="center">👯 I’m looking to collaborate on **open source projects** </p>
 
- <p align="center">🤝 I’m looking for help with **mentorship**</p>
+ <p align="center">🤝 I’m looking for help with **mentorship** </p>
 
- <p align="center">👨‍💻 Check out my pinned project from my repos</p>
+ <p align="center">👨‍💻 Check out my pinned project from my repos </p>
 
- <p align="center">📫 How to reach me **rantil@pm.me**</p>
+ <p align="center">📫 How to reach me **rantil@pm.me** </p>
 
- <p align="center">📄 Know about my experiences (https://max-blog.ghost.io/)</p>
+ <p align="center">📄 Know about my experiences (https://max-blog.ghost.io/) </p>
 
  <p align="center">🚲 I also like bicycling, ₿itcoin and sauna 🧖 </p>
  
@@ -37,6 +37,7 @@
  <a href=""> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
  <a href=""> ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=MacOS)</a>
  <a href=""> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
+
 </div>
           
 <br>
