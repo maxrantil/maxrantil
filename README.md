@@ -1,7 +1,8 @@
 <h2 align="center">Hi, I'm Max</h2>
 <h3 align="center">A passionate developer from Sweden</h3>
 
-<div align="center"><br>
+<div align="center" style="display: inline_block"><br>
+<h2 align="center">⚡️ A Few Quick Facts.</h2> 
    
     • 🔭 I’m currently working on my own website<br>
 
@@ -53,4 +54,4 @@
 ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)
 
 
-<a><img src="https://readme-typing-svg.herokuapp.com/?lines=Fulltime%20student%20of%20the%20famous%2042%20school;Experienced%20with%20C,%20Docker%20and%20many%20more;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=700&height=45&color=3382FF&vCenter=true&size=22"></a>
+<a><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20of%20school%2042%20-%20Hive%20Helsinki;Going%20deep%20with%20C;Always%20learning&font=Fira%20Code&center=true&width=700&height=45&color=3382FF&vCenter=true&size=22"></a>
