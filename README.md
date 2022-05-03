@@ -33,11 +33,12 @@
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
 <br>
-<a><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" />
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" /> 
-  <img align="center" src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" />
-  <img align="right" src="https://gidigi.com/cdn/love.gif">
-</a>
+<p float="left">
+   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" />
+   <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" /> 
+   <img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" />
+   <img src="https://gidigi.com/cdn/love.gif">
+</p>
 
 ### Technologies
 
