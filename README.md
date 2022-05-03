@@ -19,22 +19,25 @@
 
  <p align="center">🚲 I also like bicycling, ₿itcoin and sauna 🧖 </p>
  
-### Languages
+ 
+<a align="left>
+ ### Languages
 
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
-![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+ ![C](https://img.shields.io/badge/-C-000?&logo=C)
+ ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
+ ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)
+ ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
+ ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)
+ ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)
+ ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 
-### Technologies
+ ### Technologies
 
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
-![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=MacOS)
-![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)
-
+ ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
+ ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=MacOS)
+ ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)
+</a>
+          
 <br>
 <p float="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" />
