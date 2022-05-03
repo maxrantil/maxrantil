@@ -40,7 +40,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" />
  <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" />  
 </p>
-<p float="center">
+<p align="center">
  <img src="https://gidigi.com/cdn/love.gif">
 </p>
 
