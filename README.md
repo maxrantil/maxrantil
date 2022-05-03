@@ -32,4 +32,5 @@
    <a><img align="center" src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" /> </a>
    <a align="center"><img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" />
 </a>
-![]https://camo.githubusercontent.com/8847cc086ad4e08b4d52c0588b0e641fc8364c2fde6a09cdf8144ae75a537e0f/68747470733a2f2f6769646967692e636f6d2f63646e2f6c6f76652e676966
+
+<a HREF="https://camo.githubusercontent.com/8847cc086ad4e08b4d52c0588b0e641fc8364c2fde6a09cdf8144ae75a537e0f/68747470733a2f2f6769646967692e636f6d2f63646e2f6c6f76652e676966"></a>
