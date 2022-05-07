@@ -24,7 +24,7 @@
  
  </div>
  
- <div float="right"; width:50%";>
+ <div float="right"; width="50%";>
   
   ### Technologies
   
