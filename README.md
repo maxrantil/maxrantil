@@ -40,6 +40,7 @@
 </p>
 
 <p align="right">
+ 
  ### Technologies
 
  <a href=""> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
