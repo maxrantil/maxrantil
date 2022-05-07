@@ -20,13 +20,13 @@
 
 <p align="left"> 
 
- ### Languages
+ Languages
  
  </p>
  
  <p align="right">
   
-  ### Technologies
+ Technologies
   
  </p>
 
