@@ -36,7 +36,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" />  
 </p>
 <p align="center">
- <img src="https://gidigi.com/cdn/love.gif">
+ <img src="https://gidigi.com/cdn/love.gif" style="width: 25vw; min-width: 140px;">
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -52,10 +52,12 @@
 
  <a href=""> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
  <a href=""> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
+
+ </div>
  
  <div style="float: right;"><a><img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" /></a>
  
  </div>
  
-</div>
+
 
