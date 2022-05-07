@@ -18,18 +18,20 @@
 
  <p align="center">🚲 I also like bicycling, ₿itcoin and sauna 🧖 </p>
 
-<div float: left;width:50%;> 
+<div display="inline-block"; float="left;width:50%";> 
 
  ### Languages
  
  </div>
  
- <div float: right;width:50%;>
+ <div float="right"; width:50%";>
   
   ### Technologies
   
  </div>
 
+ <div>
+ 
  <a href=""> ![C](https://img.shields.io/badge/-C-000?&logo=C)</a>
  <a href=""> ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</a>
  <a href=""> ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)</a>
