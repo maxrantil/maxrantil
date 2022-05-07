@@ -19,13 +19,13 @@
  <p align="center">🚲 I also like bicycling, ₿itcoin and sauna 🧖 </p>
 
 <div> 
- <a float='left'>
+ <a float: left;width:50%;>
 
  ### Languages
  
  </a>
  
- <a float='right'>
+ <a float: right;width:50%;>
   
   ### Technologies
   
