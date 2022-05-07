@@ -50,7 +50,7 @@
  
  </div>
  
-<p>
- <img src="https://gidigi.com/cdn/love.gif" float="left" style="height: 10vw; min-width: 140px;">
- <img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" float="right"/>
+<p float="left">
+ <img src="https://gidigi.com/cdn/love.gif" style="height: 10vw; min-width: 140px;">
+ <img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil"/>
 </p>
