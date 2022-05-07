@@ -44,7 +44,7 @@
 
 <p>
  <img src="https://gidigi.com/cdn/love.gif" float="left" style="height: 10vw; min-width: 140px;">
- <h2 align="center"> Connect with me:</h2>
+ <h6 align="center"> Connect with me:</h6>
  <a href="https://linkedin.com/in/maxrantil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" float="center" alt="maxrantil" height="30" width="40" /></a>
 
  
