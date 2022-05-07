@@ -33,30 +33,18 @@
 </div>
 
 <p float="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" style="height: 10vw; min-width: 140px;"/>
- <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" style="height: 10vw; min-width: 140px;"/>  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" style="height: 11vw; min-width: 140px;"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" style="height: 11vw; min-width: 140px;"/>  
 </p>
 
 <p float="center">
- <h3 align="center">Connect with me:</h3>
-
-<a href="https://linkedin.com/in/maxrantil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxrantil" height="30" width="40" /></a>
-
  <img src="https://gidigi.com/cdn/love.gif" style="height: 15vw; min-width: 140px;">
-</p>
-
- <div display=inline-block; style="float: left;">
- 
+ <h3 align="center">Connect with me:</h3>
+ <a href="https://linkedin.com/in/maxrantil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxrantil" height="30" width="40" /></a>
  ### Technologies
 
  <a href=""> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
  <a href=""> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
-
- </div>
  
- <div display=inline-block; style="float: right;"><a><img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" /></a>
- 
- </div>
- 
-
-
+ <img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" /></a>
+</p>
