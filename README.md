@@ -22,6 +22,7 @@
 <div style="text-align: justify"> Technologies </div>
 
 <p style='text-align: right;'> Your Text </p>
+<p align="right">text</p>
 
  <div>
  
