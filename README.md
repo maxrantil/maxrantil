@@ -40,11 +40,9 @@
 </p>
 
 <p align="right">
- 
- ### Technologies
-
+ <b>Technologies</b>
  <a href=""> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
- <a href=""> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
+ <img src="![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)"/>
 </p>
 
 <p>
