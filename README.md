@@ -2,6 +2,8 @@
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20passionate%20developer%20from%20Sweden;Student%20of%20school%2042%20-%20Hive%20Helsinki;Always%20learning;And%20unlearning%20〠&font=Fira%20Code&center=true&width=700&height=45&color=3382FF&vCenter=true&size=22"></p>
 
+ <p align="center">🔭 I’m currently working on my own website <a href="https://mqx.digital">mqx.digital</a> </p>
+ 
  <p align="center">👯 I’m looking to collaborate on <b>open source projects</b> </p>
  
  <p align="center">🌱 I’m currently learning <b>php, javascript, mysql</b> </p>
@@ -9,8 +11,6 @@
  <p align="center">👨‍💻 Check out my pinned project from my repos </p>
  
  <p align="center">🤝 I’m looking for help with <b>mentorship</b> </p>
-  
- <p align="center">🔭 I’m currently working on my own website <a href="https://mqx.digital">mqx.digital</a> </p>
 
  <p align="center">📫 How to reach me <b>rantil@pm.me</b> </p>
  
@@ -39,14 +39,14 @@
  <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" style="height: 12vw"/> 
 </p>
 
-<div>
+<p>
  
  ### Technologies
 
  <a href=""> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
  <a href=""> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
  
-</div>
+<p>
  
 <p align="center">
  <img src="https://gidigi.com/cdn/love.gif" style="height: 10vw"/>
