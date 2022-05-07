@@ -30,6 +30,11 @@
  <a href=""> ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)</a>
  <a href=""> ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)</a>
 
+ ### Technologies<
+
+ <a href=""> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
+ <a href=""> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
+ 
 </div>
 
 <p>
@@ -38,12 +43,10 @@
 </p>
 
 <p>
- <img src="https://gidigi.com/cdn/love.gif" float="left" style="height: 12vw; min-width: 140px;">
+ <img src="https://gidigi.com/cdn/love.gif" float="left" style="height: 10vw; min-width: 140px;">
+ <h2 align="center"> Connect with me:</h2>
  <a href="https://linkedin.com/in/maxrantil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" float="center" alt="maxrantil" height="30" width="40" /></a>
- <b>Technologies</b>
 
- <a href="" float="left"> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
- <a href="" float="left"> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
  
  <img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" float="left"/></a>
 </p>
