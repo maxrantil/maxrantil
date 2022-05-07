@@ -39,7 +39,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" style="height: 12vw"/> 
 </p>
 
-<p>
+<p align="right">
  
  ### Technologies
 
