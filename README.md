@@ -33,13 +33,12 @@
 </div>
 
 <p float="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" style="height: 11vw; min-width: 140px;"/>
- <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" style="height: 11vw; min-width: 140px;"/>  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" style="height: 12vw; min-width: 140px;"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" style="height: 12vw; min-width: 140px;"/>  
 </p>
 
 <p float="center">
- <img src="https://gidigi.com/cdn/love.gif" style="height: 15vw; min-width: 140px;">
- <h3 align="center">Connect with me:</h3>
+ <img src="https://gidigi.com/cdn/love.gif" style="height: 12vw; min-width: 140px;">
  <a href="https://linkedin.com/in/maxrantil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxrantil" height="30" width="40" /></a>
  ### Technologies
 
