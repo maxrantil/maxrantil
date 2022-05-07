@@ -18,10 +18,11 @@
 
  <p align="center">🚲 I also like bicycling, ₿itcoin and sauna 🧖 </p>
 
-<p align="left"> ### Languages</p>
-<p align="right"> ### Technologies</p>
+
 
  <div>
+ 
+ ### Languages
  
  <a href=""> ![C](https://img.shields.io/badge/-C-000?&logo=C)</a>
  <a href=""> ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</a>
@@ -31,17 +32,21 @@
  <a href=""> ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)</a>
  <a href=""> ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)</a>
 
+ </div>
+
+<p>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" float="left" style="height: 12vw; min-width: 140px;"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" float="right" style="height: 12vw; min-width: 140px;"/>  
+</p>
+
+<div>
+ 
  ### Technologies
 
  <a href=""> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
  <a href=""> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
  
 </div>
-
-<p>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" float="left" style="height: 12vw; min-width: 140px;"/>
- <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" float="right" style="height: 12vw; min-width: 140px;"/>  
-</p>
 
 <p>
  <img src="https://gidigi.com/cdn/love.gif" float="left" style="height: 10vw; min-width: 140px;">
