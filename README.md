@@ -1,17 +1,17 @@
 <h2 align="center">Hi, I'm Max</h2>
 <h3 align="center">A passionate developer from Sweden</h3>
 
- <p align="center">🔭 I’m currently working on my own website [mqx.digital](https://mqx.digital) </p>
+ <p align="center">🔭 I’m currently working on my own website <a href="https://mqx.digital">mqx.digital</a> </p>
 
- <p align="center">🌱 I’m currently learning ***php, javascript, mysql*** </p>
+ <p align="center">🌱 I’m currently learning ***`php, javascript, mysql`*** </p>
 
- <p align="center">👯 I’m looking to collaborate on **open source projects** </p>
+ <p align="center">👯 I’m looking to collaborate on **`open source projects`** </p>
 
- <p align="center">🤝 I’m looking for help with **mentorship** </p>
+ <p align="center">🤝 I’m looking for help with **`mentorship`** </p>
 
  <p align="center">👨‍💻 Check out my pinned project from my repos </p>
 
- <p align="center">📫 How to reach me **rantil@pm.me** </p>
+ <p align="center">📫 How to reach me **`rantil@pm.me`** </p>
 
  <p align="center">📄 Know about my experiences [max-blog](https://max-blog.ghost.io/) </p>
 
