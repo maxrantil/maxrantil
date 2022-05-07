@@ -37,7 +37,12 @@
  <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" float="right" style="height: 12vw; min-width: 140px;"/>  
 </p>
 
-<p>
+.wrapper{
+display: flex;
+justify-content: space-between
+}
+
+<p class="wrapper">
  <img src="https://gidigi.com/cdn/love.gif" float="left" style="height: 12vw; min-width: 140px;">
  <a href="https://linkedin.com/in/maxrantil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" float="center" alt="maxrantil" height="30" width="40" /></a>
  <b>Technologies</b>
