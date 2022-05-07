@@ -32,11 +32,11 @@
 </div>
 
 <p float="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" style="hight: 15vw; min-width: 140px;"/>
- <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" style="hight: 15vw; min-width: 140px;"/>  
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" style="height: 15vw; min-width: 140px;"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" style="height: 15vw; min-width: 140px;"/>  
 </p>
 <p align="center">
- <img src="https://gidigi.com/cdn/love.gif" style="hight: 15vw; min-width: 140px;">
+ <img src="https://gidigi.com/cdn/love.gif" style="height: 15vw; min-width: 140px;">
 </p>
 
 <h3 align="center">Connect with me:</h3>
@@ -46,7 +46,7 @@
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=Student%20of%20school%2042%20-%20Hive%20Helsinki;Always%20learning&font=Fira%20Code&center=true&width=700&height=45&color=3382FF&vCenter=true&size=22"></p>
 
- <div style="float: left;">
+ <div style="float: left">
  
  ### Technologies
 
@@ -55,7 +55,7 @@
 
  </div>
  
- <div style="float: right;"><a><img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" /></a>
+ <div style="float: right"><a><img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" /></a>
  
  </div>
  
