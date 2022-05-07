@@ -45,9 +45,10 @@
  
  <a href=""> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
  <a href=""> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
+ 
 </p>
  
-<p>
- <img align="center" src="https://gidigi.com/cdn/love.gif" style="height: 10vw"/>
+<p align="center">
+ <img src="https://gidigi.com/cdn/love.gif" style="height: 10vw"/>
  <img align="right" src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil"/>
 </p>
