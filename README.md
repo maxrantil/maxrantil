@@ -32,18 +32,18 @@
 
 </div>
 
-<p">
+<p>
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" float="left" style="height: 12vw; min-width: 140px;"/>
  <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" float="right" style="height: 12vw; min-width: 140px;"/>  
 </p>
 
-<p float="center">
- <img src="https://gidigi.com/cdn/love.gif" style="height: 12vw; min-width: 140px;">
- <a href="https://linkedin.com/in/maxrantil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxrantil" height="30" width="40" /></a>
- ### Technologies
+<p>
+ <img src="https://gidigi.com/cdn/love.gif" float="left" style="height: 12vw; min-width: 140px;">
+ <a href="https://linkedin.com/in/maxrantil" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" float="center" alt="maxrantil" height="30" width="40" /></a>
+ <b>Technologies</b>
 
- <a href=""> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
- <a href=""> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
+ <a href="" float="left"> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
+ <a href="" float="left"> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
  
- <img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" /></a>
+ <img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil" float="left"/></a>
 </p>
