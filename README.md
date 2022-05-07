@@ -18,8 +18,8 @@
 
  <p align="center">🚲 I also like bicycling, ₿itcoin and sauna 🧖 </p>
 
-<div style="text-align: left"> Languages </div>
-<div style="text-align: right"> Technologies </div>
+<div style="text-align: justify"> Languages </div>
+<div style="text-align: justify"> Technologies </div>
 
  <div>
  
