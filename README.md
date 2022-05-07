@@ -40,17 +40,13 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" style="height: 12vw; min-width: 140px;"/>
  <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" style="height: 12vw; min-width: 140px;"/>  
 </p>
-
-<div>
  
- ### Technologies
+<p float="left">
+  ### Technologies
 
  <a href=""> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
  <a href=""> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
  
- </div>
- 
-<p float="left">
  <img src="https://gidigi.com/cdn/love.gif" style="height: 10vw; min-width: 140px;">
  <img src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil"/>
 </p>
