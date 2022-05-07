@@ -1,3 +1,12 @@
+<style>
+ 
+ .wrapper{
+   display: flex;
+   justify-content: space-between
+ }
+ 
+</style>
+
 <h2 align="center">Hi, I'm Max</h2>
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20passionate%20developer%20from%20Sweden;Student%20of%20school%2042%20-%20Hive%20Helsinki;Always%20learning;And%20unlearning%20〠&font=Fira%20Code&center=true&width=700&height=45&color=3382FF&vCenter=true&size=22"></p>
@@ -36,11 +45,6 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" float="left" style="height: 12vw; min-width: 140px;"/>
  <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" float="right" style="height: 12vw; min-width: 140px;"/>  
 </p>
-
-.wrapper{
-display: flex;
-justify-content: space-between
-}
 
 <p class="wrapper">
  <img src="https://gidigi.com/cdn/love.gif" float="left" style="height: 12vw; min-width: 140px;">
