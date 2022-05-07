@@ -21,6 +21,8 @@
 <div style="text-align: justify"> Languages </div>
 <div style="text-align: justify"> Technologies </div>
 
+<p style='text-align: right;'> Your Text </p>
+
  <div>
  
  <a href=""> ![C](https://img.shields.io/badge/-C-000?&logo=C)</a>
