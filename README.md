@@ -1,7 +1,7 @@
 <h2 align="center">Hi, I'm Max</h2>
 <h3 align="center">A passionate developer from Sweden</h3>
 
- <p align="center">🔭 I’m currently working on my own website (https://mqx.digital) </p>
+ <p align="center">🔭 I’m currently working on my own website [mqx.digital](https://mqx.digital) </p>
 
  <p align="center">🌱 I’m currently learning ***php, javascript, mysql*** </p>
 
@@ -13,7 +13,7 @@
 
  <p align="center">📫 How to reach me **rantil@pm.me** </p>
 
- <p align="center">📄 Know about my experiences (https://max-blog.ghost.io/) </p>
+ <p align="center">📄 Know about my experiences [max-blog](https://max-blog.ghost.io/) </p>
 
  <p align="center">🚲 I also like bicycling, ₿itcoin and sauna 🧖 </p>
  
