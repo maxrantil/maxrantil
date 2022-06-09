@@ -2,11 +2,11 @@
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20passionate%20developer%20from%20Sweden;Student%20of%20school%2042%20-%20Hive%20Helsinki;Always%20learning;And%20unlearning%20〠&font=Fira%20Code&center=true&width=700&height=45&color=3382FF&vCenter=true&size=22"></p>
 
- # <p align="center">🔭 I’m currently working on my own website <a href="https://mqx.digital">mqx.digital</a> [work in progress]</p>
+ [comment]: <> (<p align="center">🔭 I’m currently working on my own website <a href="https://mqx.digital">mqx.digital</a> [work in progress]</p>)
  
- # <p align="center">👯 I’m looking to collaborate on <b>open source projects</b> </p>
+ [comment]: <> (<p align="center">👯 I’m looking to collaborate on <b>open source projects</b> </p>)
  
- <p align="center">🌱 I’m currently learning <b>about computer networking</b> </p>
+ <p align="center">🌱 I’m currently learning <b>about computer networking and shell scripting</b> </p>
  
  <p align="center">👨‍💻 Check out my pinned project from my repos </p>
  
