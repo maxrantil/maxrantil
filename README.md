@@ -18,7 +18,7 @@
 
  <p align="center">📄 Know about my experiences <a href="https://max-blog.ghost.io/">max-blog</a> </p>
 
- <p align="center">🚲 I also like bicycling, ₿itcoin and sauna 🧖 </p>
+ <p align="center">🚲 I also like bicycling & ₿itcoin </p>
 
  <div>
  
