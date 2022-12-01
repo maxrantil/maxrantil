@@ -12,9 +12,7 @@
  
  <p align="center">🤝 I’m looking for a <b>interesting job opportunity</b> </p>
 
- <p align="center">📫 How to reach me <b>rantil@pm.me</b> </p>
- 
- <p href="https://www.linkedin.com/mwlite/in/max-rantil-b5b1701a5" target="blank" align="center"><img float="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxrantil" height="15" width="20" /></p>
+ <p align="center">📫 How to reach me <b>rantil@pm.me</b> or <a href="https://www.linkedin.com/mwlite/in/max-rantil-b5b1701a5" target="blank" ><img float="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxrantil" height="15" width="20" /></a></p>
 
  <p align="center">🚲 I also like bicycling, Bitcoin and books</p>
 
