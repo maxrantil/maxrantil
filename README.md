@@ -6,11 +6,11 @@
  
  [comment]: <> (<p align="center">👯 I’m looking to collaborate on <b>open source projects</b> </p>)
  
- <p align="center">🌱 I’m currently learning <b>about computer networking and shell scripting</b> </p>
+ <p align="center">🌱 I’m currently learning <b>about Bash</b> </p>
  
  <p align="center">👨‍💻 Check out my pinned project from my repos </p>
  
- <p align="center">🤝 I’m looking for help with <b>mentorship</b> </p>
+ <p align="center">🤝 I’m looking for a <b>interesting job opportunity</b> </p>
 
  <p align="center">📫 How to reach me <b>rantil@pm.me</b> </p>
  
