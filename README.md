@@ -33,4 +33,4 @@
  <a href=""> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
  <a href=""> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
  <img align="right" src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil"/>
- </div>
+</div>
