@@ -16,9 +16,7 @@
  
  <p href="https://linkedin.com/in/maxrantil" target="blank" align="center"><img float="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxrantil" height="30" width="40" /></p>
 
- <p align="center">📄 Know about my experiences <a href="https://max-blog.ghost.io/">max-blog</a> </p>
-
- <p align="center">🚲 I also like bicycling & ₿itcoin </p>
+ <p align="center">🚲 I also like bicycling, Bitcoin and books</p>
 
  <div>
  
