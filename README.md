@@ -14,7 +14,7 @@
 
  <p align="center">📫 How to reach me <b>rantil@pm.me</b> </p>
  
- <p href="https://linkedin.com/in/maxrantil" target="blank" align="center"><img float="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxrantil" height="30" width="40" /></p>
+ <p href="https://linkedin.com/in/maxrantil" target="blank" align="center"><img float="center" src="https://www.linkedin.com/mwlite/in/max-rantil-b5b1701a5" alt="maxrantil" height="15" width="20" /></p>
 
  <p align="center">🚲 I also like bicycling, Bitcoin and books</p>
 
