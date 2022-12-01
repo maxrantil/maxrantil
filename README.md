@@ -35,7 +35,7 @@
  </div>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" style="height: 12vw"/>
- <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" style="height: 12vw"/> 
- <img src="https://gidigi.com/cdn/love.gif" style="height: 10vw"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" style="height: 10vh"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" style="height: 10vh"/> 
+ <img src="https://gidigi.com/cdn/love.gif" style="height: 10vh"/>
 </p>
