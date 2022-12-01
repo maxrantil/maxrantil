@@ -6,7 +6,7 @@
  
  [comment]: <> (<p align="center">👯 I’m looking to collaborate on <b>open source projects</b> </p>)
  
- <p align="center">🌱 I’m currently learning <b>about Bash</b> </p>
+ <p align="center">🌱 I’m currently learning about <b>Bash</b> </p>
  
  <p align="center">👨‍💻 Check out my pinned project from my repos </p>
  
