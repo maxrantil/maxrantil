@@ -21,6 +21,7 @@
  <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" style="height: 17vh"/> 
  <img src="https://gidigi.com/cdn/love.gif" style="height: 17vh"/>
 </p>
+
 <div>
  <a href=""> ![C](https://img.shields.io/badge/-C-000?&logo=C)</a>
  <a href=""> ![Bash](https://img.shields.io/badge/-BASH-000?logo=gnu-bash&logoColor=white)</a>
