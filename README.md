@@ -10,7 +10,7 @@
  
  <p align="center">👨‍💻 Check out my pinned project from my repos </p>
  
- <p align="center">🤝 I’m looking for a <b>interesting job opportunity</b> </p>
+ <p align="center">🤝 I’m looking for an <b>interesting job opportunity</b> </p>
 
  <p align="center">📫 How to reach me <b>rantil@pm.me</b> or <a href="https://www.linkedin.com/mwlite/in/max-rantil-b5b1701a5" target="blank" ><img float="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxrantil" height="15" width="20" /></a></p>
 
