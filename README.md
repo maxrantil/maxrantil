@@ -18,8 +18,6 @@
 
  <div>
  
- ### Languages and Technologies
- 
  <a href=""> ![C](https://img.shields.io/badge/-C-000?&logo=C)</a>
  <a href=""> ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)</a>
  <a href=""> ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)</a>
@@ -27,15 +25,13 @@
  <a href=""> ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)</a>
  <a href=""> ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)</a>
  <a href=""> ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)</a>
-
  <a href=""> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
  <a href=""> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
- 
  <img align="right" src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil"/>
  </div>
 
 <p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" style="height: 10vh"/>
- <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" style="height: 10vh"/> 
- <img src="https://gidigi.com/cdn/love.gif" style="height: 10vh"/>
+ <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" style="height: 13vh"/>
+ <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" style="height: 13vh"/> 
+ <img src="https://gidigi.com/cdn/love.gif" style="height: 13vh"/>
 </p>
