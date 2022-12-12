@@ -14,7 +14,7 @@
 
  <p align="center">📫 How to reach me <a href="https://www.linkedin.com/mwlite/in/max-rantil-b5b1701a5" target="blank" ><img float="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxrantil" height="15" width="20" /></a></p>
 
- <p align="center">🚲 I also like bicycling, Bitcoin and books</p>
+ <p align="center">🚲 I also like bicycling, books and Bitcoin</p>
 
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" style="height: 12vh"/>
