@@ -19,9 +19,12 @@
 <p align="center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" style="height: 13vh"/>
  <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" style="height: 13vh"/> 
- <img src="https://gidigi.com/cdn/love.gif" style="height: 13vh"/>
 </p>
 
+<p align="left">
+ <img src="https://gidigi.com/cdn/love.gif" style="height: 12vh"/>
+</p>
+ 
 <div>
  
  <a href=""> ![C](https://img.shields.io/badge/-C-000?&logo=C)</a>
