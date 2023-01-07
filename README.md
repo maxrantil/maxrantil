@@ -20,7 +20,7 @@
  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" style="height: 13vh"/>
  <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" style="height: 13vh"/> 
  <p align="right">
-  <img src="https://gidigi.com/cdn/love.gif" style="object-fit: cover; width: 100%; height: 100%"/>
+  <img src="https://gidigi.com/cdn/love.gif" style="object-fit: cover; width: 30%; height: 30%"/>
  </p>
 </p>
 
