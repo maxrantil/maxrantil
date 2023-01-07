@@ -2,8 +2,6 @@
 
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com/?lines=A%20passionate%20developer%20from%20Sweden;Student%20of%20school%2042%20-%20Hive%20Helsinki;Always%20learning;And%20unlearning%20〠&font=Fira%20Code&center=true&width=700&height=45&color=3382FF&vCenter=true&size=22"></p>
 
- <p align="center"><img src="https://gidigi.com/cdn/love.gif" style="height: 12vh"/></p>
-
  <p align="center">🔭 I am currently working on a group project where we are creating a shell <a href="https://github.com/maxrantil/21sh">[21sh]</a></p>
  
  [comment]: <> (<p align="center">👯 I’m looking to collaborate on <b>open source projects</b> </p>)
