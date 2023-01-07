@@ -25,6 +25,7 @@
  
 <div>
  
+ <img src="https://gidigi.com/cdn/love.gif" style="height: 5vh"/>
  <a href=""> ![C](https://img.shields.io/badge/-C-000?&logo=C)</a>
  <a href=""> ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)</a>
  <a href=""> ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)</a>
@@ -34,7 +35,6 @@
  <a href=""> ![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)</a>
  <a href=""> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
  <a href=""> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
- <img src="https://gidigi.com/cdn/love.gif" style="height: 10vh"/>
  <img align="right" src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil"/>
 </div>
 
