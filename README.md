@@ -21,7 +21,6 @@
  
  <a href=""> ![C](https://img.shields.io/badge/-C-000?&logo=C)</a>
  <a href=""> ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)</a>
- <a href=""> ![C++](https://img.shields.io/badge/-C++-000?&logo=C++)</a>
  <a href=""> ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)</a>
  <a href=""> ![Python](https://img.shields.io/badge/-Python-000?&logo=python)</a>
  <a href=""> ![Bitcoin](https://img.shields.io/badge/-Bitcoin-000?&logo=bitcoin)</a>
