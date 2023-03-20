@@ -23,7 +23,6 @@
  <a href=""> ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)</a>
  <a href=""> ![Rust](https://img.shields.io/badge/-Rust-000?&logo=rust)</a>
  <a href=""> ![Python](https://img.shields.io/badge/-Python-000?&logo=python)</a>
- <a href=""> ![Bitcoin](https://img.shields.io/badge/-Bitcoin-000?&logo=bitcoin)</a>
  <a href=""> ![PHP](https://img.shields.io/badge/-PHP-000?&logo=PHP)</a>
  <a href=""> ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)</a>
  <a href=""> ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)</a>
@@ -33,6 +32,7 @@
  <a href=""> ![MacOS](https://img.shields.io/badge/-MacOS-000?&logo=MacOS)</a>
  <a href=""> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
  <a href=""> ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)</a>
+ <a href=""> ![Bitcoin](https://img.shields.io/badge/-Bitcoin-000?&logo=bitcoin)</a>
  <img align="right" src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil"/>
 </div>
 
