@@ -6,7 +6,7 @@
  
   <p align="center">👨‍💻 Check out my pinned project from my repos </p>
  
- <p align="center">🌱 I’m currently learning about <b>Bitcoin</b>, <b>Docker</b> & <b>Rust</b> </p>
+ <p align="center">🌱 I’m currently learning about <b>React</b> & <b>Bitcoin</b>
  
  <p align="center">🤝 I’m looking for an <b>interesting job opportunity</b> and collaboration on <b>open source projects</b></p>
 
