@@ -1,8 +1,30 @@
-<h2 align="center">Hi, I'm Max!</h2>
+<p align="center">
+  👋 Hi, I'm <b>Max</b>! I'm a <b>Passionate Developer</b>, <b>Curiosity-Driven Learner</b>, and <b>Resilient Problem-Solver</b>, working to create <b>impactful solutions</b>.
+</p>
 
-<div align="center">
-    <img align="center" src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=25&pause=1000&color=2B94C3&center=true&vCenter=true&width=650&lines=Passionate+Developer;Curiosity-Driven+Learner;Resilien+Problem-Solver;Creating+Impactful+Solutions">
-</div>
+<p align="center">
+  🌱 I'm currently diving deep into <b>React</b> to construct more dynamic and interactive web applications, and I'm exploring the world of <b>Bitcoin</b> to unravel its revolutionary potential.
+</p>
+
+<p align="center">
+  🔥 My proudest accomplishment to date: <a href="https://github.com/maxrantil/42sh" target="_blank"><b>42sh</b></a>. For this project, we built a comprehensive shell from scratch, showcasing my skills in <b>low-level programming</b> and <b>Unix system interactions</b>.
+</p>
+
+<p align="center">
+  🔭 A favorite side-project of mine: <a href="https://rantil.xyz" target="_blank"><b>rantil.xyz</b></a>
+</p>
+
+<p align="center">
+  📚 Feel free to visit my <a href="https://maxrantil.github.io" target="_blank"><b>portfolio</b></a> to delve into more of my projects.
+</p>
+
+<p align="center">
+  🤝 I'm open to <b>exciting job opportunities</b> where I can utilize my skills and creativity to engineer <b>innovative software solutions</b>.
+</p>
+
+<p align="center">
+  🎯 Fun Fact: When I'm not coding, I'm always game for a fun round of freesbee golf.
+</p>
 
 <p align="center">
   📫 How to reach me: <a href="https://www.linkedin.com/mwlite/in/max-rantil-b5b1701a5" target="_blank">
@@ -12,33 +34,17 @@
 </p>
 
 <p align="center">
-  👨‍💻 Check out my <a href="https://maxrantil.github.io" target="_blank">portfolio</a> to see some of my projects.
+  Let's <b>connect</b>! Maybe we could even have a friendly match of freesbee golf as we embark on a journey of continuous learning and meaningful coding adventures together!
 </p>
 
-<p align="center">
-  🌱 Currently learning <b>React</b> to build more dynamic and interactive web applications, and exploring the world of <b>Bitcoin</b> to understand its revolutionary potential.
-</p>
 
 <p align="center">
-  🔥 My proudest project so far <a href="https://github.com/maxrantil/42sh" target="_blank">42sh</a> For this project, we constructed a comprehensive shell from scratch, synthesizing the knowledge and skills I had gained from previous work. This shell is fully operational, featuring command-line editing, history tracking, environment variables, input-output redirections, pipes, and more. It showcases my understanding of low-level programming and Unix system interactions.
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=react&locale=en&layout=compact" alt="maxrantil" style="height: 14vh"/>
+<img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=react&locale=en" alt="maxrantil" style="height: 14vh"/>
 </p>
 
-<p align="center">
-  🔭 My favourite side-project: <a href="https://rantil.xyz" target="_blank">rantil.xyz</a>
-</p>
 
-<p align="center">
-  🤝 Open to <b>exciting job opportunities</b> where I can contribute my skills and creativity to develop innovative software solutions. I'm also enthusiastic about collaborating on <b>open source projects</b> to foster a thriving developer community.
-</p>
 
-<p align="center">
-  Let's connect and embark on a journey of continuous learning and meaningful coding adventures together!
-</p>
-
-<p align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=gruvbox&locale=en&layout=compact" alt="maxrantil" style="height: 14vh"/>
- <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=gruvbox&locale=en" alt="maxrantil" style="height: 14vh"/> 
-</p>
  
 <div>
  
