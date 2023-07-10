@@ -11,7 +11,7 @@
 </p>
 
 <p align="center">
-  🔭 A favorite side-project of mine: <a href="https://rantil.xyz" target="_blank" rel="noopener noreferrer"><b>rantil.xyz</b></a>
+  🔭 A favorite side-project of mine: <a href="https://rantil.xyz" target="_blank"><b>rantil.xyz</b></a>
 </p>
 
 <p align="center">
