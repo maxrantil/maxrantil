@@ -1,5 +1,5 @@
 <p align="center">
-  👋 Hi, I'm <b>Max</b>! I'm a <b>Passionate Developer</b>, <b>Curiosity-Driven Learner</b>, and <b>Resilient Problem-Solver</b>, working to create <b>impactful solutions</b>.
+  👋 Hi, I'm <b>Max</b>! I'm a <b>Curiosity-Driven Learner</b>, and <b>Resilient Problem-Solver</b>, working to create <b>impactful solutions</b>.
 </p>
 
 <p align="center">
