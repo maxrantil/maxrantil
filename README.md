@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  🌱 I'm currently diving deep into <b>React</b> to construct more dynamic and interactive web applications, and I'm exploring the world of <b>Bitcoin</b> to unravel its revolutionary potential.
+  🌱 As part of my internship at Ericsson, I'm currently immersing myself in <b>Kubernetes</b>, focusing on developing robust bare-metal solutions to enhance infrastructure efficiency and scalability.
 </p>
 
 <p align="center">
@@ -12,6 +12,7 @@
 
 <p align="center">
   🔭 A favorite side-project of mine: <a href="https://rantil.xyz" target="_blank"><b>rantil.xyz</b></a>
+  <a href=""><img src="https://img.shields.io/badge/-000?&logo=bitcoin" alt="Bitcoin"></a>
 </p>
 
 <p align="center">
@@ -49,29 +50,19 @@
 <div>
  
 <a href=""> ![C](https://img.shields.io/badge/-C-000?&logo=C)</a>
+<a href=""> ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)</a>
 <a href=""> ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)</a>
 <a href=""> ![Python](https://img.shields.io/badge/-Python-000?&logo=python)</a>
-<a href=""> ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)</a>
 <a href=""> ![React](https://img.shields.io/badge/-React-000?&logo=React)</a>
-<a href=""> ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=Node.js)</a>
-<a href=""> ![Express.js](https://img.shields.io/badge/-Express.js-000?&logo=Express)</a>
-<a href=""> ![Jest](https://img.shields.io/badge/-Jest-000?&logo=Jest)</a>
-<a href=""> ![Cypress](https://img.shields.io/badge/-Cypress-000?&logo=Cypress)</a>
-<a href=""> ![Redis](https://img.shields.io/badge/-Redis-000?&logo=Redis)</a>
-<a href=""> ![jQuery](https://img.shields.io/badge/-jQuery-000?&logo=jQuery)</a>
-<a href=""> ![Apache](https://img.shields.io/badge/-Apache-000?&logo=Apache)</a>
-<a href=""> ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=Nginx)</a>
-<a href=""> ![HTML](https://img.shields.io/badge/-HTML-000?&logo=HTML)</a>
-<a href=""> ![CSS](https://img.shields.io/badge/-CSS-000?&logo=CSS)</a>
 <a href=""> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
 <a href=""> ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)</a>
-<a href=""> ![MongoDB](https://img.shields.io/badge/-MongoDB-000?&logo=MongoDB)</a>
-<a href=""> ![MySQL](https://img.shields.io/badge/-MySQL-000?&logo=MySQL)</a>
+<a href=""> ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)</a>
+<a href=""> ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)</a>
 <a href=""> ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)</a>
 <a href=""> ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual-Studio-Code)</a>
 <a href=""> ![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)</a>
 <a href=""> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
- <a href=""> ![Bitcoin](https://img.shields.io/badge/-Bitcoin-000?&logo=bitcoin)</a>
+ 
  <img align="right" src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil"/>
 
 </div>
