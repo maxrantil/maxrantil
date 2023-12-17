@@ -11,11 +11,6 @@
 </p>
 
 <p align="center">
-  🔭 A favorite side-project of mine: <a href="https://rantil.xyz" target="_blank"><b>rantil.xyz</b></a>
-  <a href=""><img src="https://img.shields.io/badge/-000?&logo=bitcoin" alt="Bitcoin"></a>
-</p>
-
-<p align="center">
   📚 Feel free to visit my <a href="https://maxrantil.github.io" target="_blank"><b>portfolio</b></a> to delve into more of my projects.
 </p>
 
