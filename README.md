@@ -47,15 +47,7 @@
 <a href=""> ![C](https://img.shields.io/badge/-C-000?&logo=C)</a>
 <a href=""> ![Go](https://img.shields.io/badge/-Go-000?&logo=Go)</a>
 <a href=""> ![Bash](https://img.shields.io/badge/-Bash-000?&logo=gnu-bash)</a>
-<a href=""> ![Python](https://img.shields.io/badge/-Python-000?&logo=python)</a>
-<a href=""> ![React](https://img.shields.io/badge/-React-000?&logo=React)</a>
-<a href=""> ![GIT](https://img.shields.io/badge/-GIT-000?&logo=GIT)</a>
-<a href=""> ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)</a>
 <a href=""> ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=kubernetes)</a>
-<a href=""> ![Jenkins](https://img.shields.io/badge/-Jenkins-000?&logo=Jenkins)</a>
-<a href=""> ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?&logo=PostgreSQL)</a>
-<a href=""> ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-000?&logo=Visual-Studio-Code)</a>
-<a href=""> ![Vim](https://img.shields.io/badge/-Vim-000?&logo=Vim)</a>
 <a href=""> ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)</a>
  
  <img align="right" src="https://komarev.com/ghpvc/?username=maxrantil&label=views&color=0e75b6&style=flat" alt="maxrantil"/>
