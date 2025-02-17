@@ -11,14 +11,6 @@
 </p>
 
 <p align="center">
-  Contact: <a href="https://www.linkedin.com/in/maxrantil" target="_blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-         alt="LinkedIn" height="15" width="20">
-  </a>
-</p>
-
-
-<p align="center">
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maxrantil&show_icons=true&theme=react&locale=en&layout=compact" alt="maxrantil" style="height: 14vh"/>
 <img src="https://github-readme-stats.vercel.app/api?username=maxrantil&show_icons=true&theme=react&locale=en" alt="maxrantil" style="height: 14vh"/>
 </p>
